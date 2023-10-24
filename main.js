@@ -1,8 +1,0 @@
-const typed = new Typed(".text", {
-    strings: ['Front-End Developer', 'App Developer', 'Web Developer','Designer'],
-    typeSpeed: 100,
-    backSpeed: 100,
-    backDelay: 1000,
-    loop: true
-  });
-  
